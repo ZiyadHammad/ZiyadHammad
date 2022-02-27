@@ -1,8 +1,9 @@
-### Hi there 👋, Ziyad Hammad
-#### Web Development & Design
+# Hi there 👋, I'm Ziyad
 I'm Ziyad from Virginia, United States. I'm a junior software engineer that enjoys building web applications. I love to learn new languages and frameworks that can elevate me and make me stronger as a developer. I spend my time solving algos and creating projects to strengthen the skills I already possess and learning new ways to optimize my code.
 
-Skills: REACT / JS / HTML / CSS
+## Skills & Experience
+* ⚛️ React
+* 💻 HTML,CSS, JS
 
 - 🔭 I’m currently working on Building a Business Landing Page 
 - 👯 I’m looking to collaborate on Projects that can scale 
