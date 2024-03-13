@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ziyad
 =============================================================================================================================
 
-I've been knee-deep in programming for over three years now. As a die-hard gamer, I've always had this insatiable curiosity about how game systems tick, which naturally led me down the rabbit hole of programming. In 2021, I decided to take the plunge and enroll in a Software Engineering Bootcamp. Let me tell you, I was going through it! But hey, that bootcamp became the launching pad to my career in the tech industry
+I've been knee-deep in programming for over three years now. As a die-hard gamer, I've always had this deep curiosity about the inner workings of game systems, which naturally led me down the rabbit hole of programming. In 2021, I decided to take the plunge and enroll in a Software Engineering Bootcamp which became the launching pad to my career.
 
 * 🌍  I'm based in Centreville, Virginia
 * 🖥️  See my portfolio at [ZiyadHammad.com](http://ZiyadHammad.com)
