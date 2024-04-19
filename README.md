@@ -8,7 +8,7 @@ I've been knee-deep in programming for over three years now. As a die-hard gamer
 * 🌍  I'm based in Centreville, Virginia
 * 🖥️  See my portfolio at [ZiyadHammad.com](http://ZiyadHammad.com)
 * ✉️  You can contact me at [ziyadhammad@icloud.com](mailto:ziyadhammad@icloud.com)
-* 🧠  I'm learning TypeScript!
+* 🧠  Currently learning TypeScript & Docker!
 
 ### Skills
 
